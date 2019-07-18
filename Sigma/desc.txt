@@ -1,1 +1,0 @@
-﻿Sigma is a new build system, with the aim being something intuitive to use while also (hopefully) being fast.
