@@ -1,0 +1,7 @@
+﻿namespace Sigma
+{
+    public class Config
+    {
+        public const bool IsMetaBuilt = true;
+    }
+}
