@@ -117,12 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="EnableClang" xml:space="preserve">
-    <value>true</value>
-    <comment>Set to true to enable Sigma's use of Clang.</comment>
-  </data>
-  <data name="EnableCsc" xml:space="preserve">
-    <value>true</value>
-    <comment>Set to true to enable Sigma's use of Csc.</comment>
-  </data>
 </root>

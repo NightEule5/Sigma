@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sigma", "Sigma\Sigma.csproj", "{227B8F6E-5E80-41B6-9B11-047B21D034D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sigma.Build", "Sigma.Build\Sigma.Build.csproj", "{C53CA8B3-E9CE-4D12-AF3C-B0765C4A772A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sigma.Build", "Sigma.Build\Sigma.Build.csproj", "{C53CA8B3-E9CE-4D12-AF3C-B0765C4A772A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1F45B48-7F6B-4962-BE00-800B045E80FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

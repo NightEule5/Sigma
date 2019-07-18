@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SigmaOld.Properties {
+namespace Sigma.Properties {
     using System;
     
     
@@ -57,24 +57,6 @@ namespace SigmaOld.Properties {
             }
             set {
                 resourceCulture = value;
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to true.
-        /// </summary>
-        internal static string EnableClang {
-            get {
-                return ResourceManager.GetString("EnableClang", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to true.
-        /// </summary>
-        internal static string EnableCsc {
-            get {
-                return ResourceManager.GetString("EnableCsc", resourceCulture);
             }
         }
     }

@@ -10,6 +10,7 @@
     <Description>Serves as the API for programming Sigma build scripts.</Description>
     <Copyright>Copyright (c) 2019 Phillip Leere (NightEule5)</Copyright>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
   </PropertyGroup>
 
 </Project>
