@@ -16,7 +16,7 @@ Here is an example for compiling C++ source files with clang:
     "Type": "Sigma.Build.BasicCppCompileTask",
     "Parameters": [
         "Compiler": "Clang",
-        "Options": [
+        "Options": {
             "Standard": "c++2a", // -std=c++2a
             "Warnings": "all",   // -Wall
             "Optimization": 3,   // -O3
@@ -26,7 +26,7 @@ Here is an example for compiling C++ source files with clang:
             ]
             // Options can also be defined as the CLI would see them, like this:
             // "O": 3
-        ], // Could also be defined like this: "Options": "-std=c++2a -Wall -O3"
+        }, // Could also be defined like this: "Options": "-std=c++2a -Wall -O3"
         "Blacklist": [ "DontTouchMeh!.cpp" ]
     ]
 }
