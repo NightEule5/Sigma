@@ -8,6 +8,8 @@ The Sigma build system will have a stucture based on compartmentalized component
 
 ### Tasks
 
+TODO: Add conditions to tasks.
+
 Tasks perform actions on the build and return values to be used in consecutive tasks. They provide varying degrees of abstraction, where you can use tasks written for you (included in Sigma) or create your own in C#.
 
 Here is an example for compiling C++ source files with clang:  
